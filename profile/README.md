@@ -16,7 +16,7 @@
 - 기간: 2024.01.06 ~ 
 - 인원: 4명
 - 장소: 원루프랩 스터디룸 사당점
-- 시간: 15:30 - 18:00
+- 시간: 매주 토요일(15:30 - 18:00)
   
 # **[ 👨‍👨‍👧‍👦 ‍멤버 ]**
 |Github|[<img src="https://avatars.githubusercontent.com/hhp227study" width="130px;" style="max-width: 100%;">](https://github.com/hhp227study)|[<img src="https://avatars.githubusercontent.com/phaethon5882" width="130px;" style="max-width: 100%;">](https://github.com/phaethon5882)|[<img src="https://avatars.githubusercontent.com/yssy3135" width="130px;" style="max-width: 100%;">](https://github.com/yssy3135)|[<img src="https://avatars.githubusercontent.com/min9288" width="130px;" style="max-width: 100%;">](https://github.com/min9288)|
