@@ -125,9 +125,9 @@
 
 |No|플랫폼|문제번호|문제명|난이도|분류|부 분류
 |-|----|-----|-----|-----|-----|----------|
-|1|||||||
-|2|||||||
-|3|||||||
+|1|백준|[2583](https://www.acmicpc.net/problem/2583)|영역 구하기|Silver 1|DFS|BFS, 그래프 이론, 그래프 탐색|
+|2|백준|[1068](https://www.acmicpc.net/problem/1068)|트리|Gold 5|DFS|그래프 이론, 그래프 탐색, 트리|
+|3|프로그래머스|[43164](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|여행경로|Level 3|DFS|그래프 이론|
     
 - 과제:
 
