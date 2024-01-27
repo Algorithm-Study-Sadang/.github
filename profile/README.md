@@ -146,8 +146,8 @@
 |No|플랫폼|문제번호|문제명|난이도|분류|부 분류
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[2644](https://www.acmicpc.net/problem/2644)|촌수계산|Silver 2|BFS|DFS, 그래프 이론, 그래프 탐색|
-|2|||||||
-|3|||||||
+|2|백준|[2606](https://www.acmicpc.net/problem/2606)|바이러스|Silver 3|BFS|DFS, 그래프 이론, 그래프 탐색|
+|3|백준|[16948](https://www.acmicpc.net/problem/16948)|데스 나이트|Silver 1|BFS|DFS, 그래프 이론, 그래프 탐색|
     
 - 과제:
 
